@@ -1,4 +1,5 @@
 fn main() {
+    println!("Twelve days of Christmas");
     let numerals = vec!["first".to_string(), "second".to_string(), "third".to_string(), "fourth".to_string(), "fifth".to_string(), "sixth".to_string(), "seventh".to_string(), "eighth".to_string(), "ninth".to_string(), "tenth".to_string(), "eleventh".to_string(), "twelfth".to_string()];
     let gifts = vec!["A partridge in a pear tree", "Two turtledoves", "Three French hens", "Four calling birds", "Five gold rings (five golden rings)", "Six geese a-laying", "Seven swans a-swimming", "Eight maids a-milking", "Nine ladies dancing", "Ten lords a-leaping", "Eleven pipers piping", "Twelve drummers drumming"];
 
